@@ -1,0 +1,7 @@
+tensorflow
+transformers
+sentencepiece
+nltk
+scikit-learn
+matplotlib
+numpy

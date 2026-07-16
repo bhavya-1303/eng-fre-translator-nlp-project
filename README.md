@@ -1,7 +1,7 @@
 # English–French Translator NLP Project
 
 ## 📌 Description
-This is a Final Year Project implementing:
+
 - Abstractive text summarization using T5 Transformer
 - English → French Neural Machine Translation using Transformer
 - Interactive user input for translation and summarization
